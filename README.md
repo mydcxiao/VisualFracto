@@ -20,8 +20,8 @@ accurately estimate the strengths of the imaged fracture surfaces.
 ## Preparation
 
 1. Environment
-   - MATLAB
-   - Developed by MATLAB GUIDE v2.5
+   - [MATLAB R2020a](https://www.mathworks.com/products/new_products/release2020a.html)
+   - MATLAB GUIDE v2.5(Noted that GUIDE will be removed in the future. See also [Release Notes](https://www.mathworks.com/help/doc-archives.html))
 2. Datasets
    - The detailed instruction is in [Automated Quantitative Fractography of Silicate Glasses with Visual Analysis](https://link.springer.com/article/10.1007/s11665-021-05697-1)
 
