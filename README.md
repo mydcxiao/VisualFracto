@@ -12,6 +12,19 @@ Lastly, dimensional analysis principles coupled with a broad, experimental set o
 accurately estimate the strengths of the imaged fracture surfaces.
 
 ## FlowChart
+
 <p align="center">
   <img src="flowchart.png" width="800">
 </p>
+
+## Preparation
+
+1. Environment
+   - MATLAB
+   - Developed by MATLAB GUIDE
+2. Datasets
+   - The detailed instruction is in [Automated Quantitative Fractography of Silicate Glasses with Visual Analysis](https://link.springer.com/article/10.1007/s11665-021-05697-1)
+
+## Results
+
+Refer to [Automated Quantitative Fractography of Silicate Glasses with Visual Analysis](https://link.springer.com/article/10.1007/s11665-021-05697-1)
