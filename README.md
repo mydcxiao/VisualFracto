@@ -28,3 +28,18 @@ accurately estimate the strengths of the imaged fracture surfaces.
 ## Results
 
 Refer to [Automated Quantitative Fractography of Silicate Glasses with Visual Analysis](https://link.springer.com/article/10.1007/s11665-021-05697-1)
+
+## Citing
+If you find this useful, please cite it.
+
+```
+@article{xiao2021automated,
+  title={Automated Quantitative Fractography of Silicate Glasses with Visual Analysis},
+  author={Xiao, Yuhang and Dugnani, Roberto},
+  journal={Journal of Materials Engineering and Performance},
+  volume={30},
+  pages={3612--3623},
+  year={2021},
+  publisher={Springer}
+}
+```
