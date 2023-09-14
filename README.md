@@ -26,7 +26,7 @@ accurately estimate the strengths of the imaged fracture surfaces.
    - Self-collected image dataset via a standard inverted compound microscope (SOPTOP ICX41M) in dark- and bright-field illumination. The model of the digital camera model used was E3ISPM; the exposure time for all images was held constant at 350 ms for all images, whereas the light source was manually tuned between 1000 and 2000 lumens.
    - For original dataset, please contact authors in [Automated Quantitative Fractography of Silicate Glasses with Visual Analysis](https://link.springer.com/article/10.1007/s11665-021-05697-1).
 
-## How to Use
+## Using
 
 Refer to instructions in [Guide](./Guide.pdf).
 
