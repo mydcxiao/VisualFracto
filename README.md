@@ -52,4 +52,4 @@ If you find this useful, please cite it.
 ## Copyright
 
 2020 Copyright: all rights for this program are reserved to FAMS Laboratory at the University of Michigan Jiao Tongy University -Joint Instiute.  
-This program cannot be used without the prior approval of both Prof. Roberto Dugnani.
+This program cannot be used without the prior approval of Prof. Roberto Dugnani.
