@@ -1,4 +1,4 @@
-# VisualFracto
+# Visual Analysis for Fractography
 
 The official MATLAB implementation of visual analysis for silicate glass fractography, which 
 is from the Journal of Materials Engineering and Performance paper "Automated Quantitative Fractography of Silicate Glasses with Visual Analysis". 
