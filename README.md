@@ -23,11 +23,13 @@ accurately estimate the strengths of the imaged fracture surfaces.
    - [MATLAB R2020a](https://www.mathworks.com/products/new_products/release2020a.html)
    - MATLAB GUIDE v2.5(Noted that GUIDE will be removed in the future. See also [Release Notes](https://www.mathworks.com/help/doc-archives.html))
 2. Datasets
-   - The detailed instruction is in [Automated Quantitative Fractography of Silicate Glasses with Visual Analysis](https://link.springer.com/article/10.1007/s11665-021-05697-1)
+   - Self-collected images via a standard inverted compound microscope (SOPTOP ICX41M) in dark- and bright-field illumination. The model of the digital camera model used was E3ISPM; the exposure time for all images was held constant at 350 ms for all images, whereas the light source was manually tuned between 1000 and 2000 lumens.
+   - Image acquisition instruction is in [Guide](./Guide.pdf).
+   - Original dataset, please contact authors in [paper](https://link.springer.com/article/10.1007/s11665-021-05697-1).
 
 ## Results
 
-Refer to [Automated Quantitative Fractography of Silicate Glasses with Visual Analysis](https://link.springer.com/article/10.1007/s11665-021-05697-1)
+Refer to [Automated Quantitative Fractography of Silicate Glasses with Visual Analysis](https://link.springer.com/article/10.1007/s11665-021-05697-1).
 
 ## Citing
 If you find this useful, please cite it.
