@@ -10,3 +10,8 @@ Next, a newly developed algorithm compared the processed images with a database 
 known strengths, fracture toughness, stress fields, and geometric features. 
 Lastly, dimensional analysis principles coupled with a broad, experimental set of over 2100 fracture surfaces was used to 
 accurately estimate the strengths of the imaged fracture surfaces.
+
+## Framework
+<p align="center">
+  <img src="flowchart.png" width="1000">
+</p>
