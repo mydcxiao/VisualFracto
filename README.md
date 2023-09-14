@@ -11,7 +11,7 @@ known strengths, fracture toughness, stress fields, and geometric features.
 Lastly, dimensional analysis principles coupled with a broad, experimental set of over 2100 fracture surfaces was used to 
 accurately estimate the strengths of the imaged fracture surfaces.
 
-## Framework
+## FlowChart
 <p align="center">
-  <img src="flowchart.png" width="1000">
+  <img src="flowchart.png" width="800">
 </p>
