@@ -32,7 +32,9 @@ Refer to instructions in [Guide](./Guide.pdf).
 
 ## Results
 
-Refer to [Automated Quantitative Fractography of Silicate Glasses with Visual Analysis](https://link.springer.com/article/10.1007/s11665-021-05697-1).
+This method outperforms ASTM C1678 with an average error less than 4%.
+
+For more details, please refer to [Automated Quantitative Fractography of Silicate Glasses with Visual Analysis](https://link.springer.com/article/10.1007/s11665-021-05697-1).
 
 ## Citing
 If you find this useful, please cite it.
